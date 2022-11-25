@@ -24,6 +24,11 @@
     font-size:60px;
 }
 
+.main-header__menu{
+    display: flex;
+    justify-content: flex-end;
+}
+
 .main-header__menu ul {
     display: flex;
     justify-content: flex-end;
